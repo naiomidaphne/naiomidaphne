@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daphne 
 - 👀 I’m interested in fashion designs
-- 🌱 I’m currently learning web developer engineering now
+- 🌱 I’m currently learning web developer engineering 
 - 📫 How to reach me by mail: daphne7682001@gmail.com
 
 <!---
